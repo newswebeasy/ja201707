@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011039191000.mp3", 
+  "title": "２９回続けて試合に勝っていた将棋の藤井さんが負ける", 
+  "news_prearranged_time": "2017-07-03 17:05:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>藤井聡太<rt>ふじいそうた</rt></ruby>さんは、<ruby>去年<rt>きょねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>に１４<ruby>歳<rt>さい</rt></ruby>２か<ruby>月<rt>げつ</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>将棋<rt>しょうぎ</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0001'>プロ</a>になってから<ruby>先月<rt>せんげつ</rt></ruby>まで、<ruby>試合<rt>しあい</rt></ruby>に１<ruby>回<rt>かい</rt></ruby>も<ruby>負<rt>ま</rt></ruby>けないで２９<ruby>回<rt>かい</rt></ruby><ruby>勝<rt>か</rt></ruby>っていました。", 
+  "news_web_movie_uri": "k10011039191_201707030512_201707030516.mp4", 
+  "title_with_ruby": "２９<ruby>回<rt>かい</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>試合<rt>しあい</rt></ruby>に<ruby>勝<rt>か</rt></ruby>っていた<ruby>将棋<rt>しょうぎ</rt></ruby>の<ruby>藤井<rt>ふじい</rt></ruby>さんが<ruby>負<rt>ま</rt></ruby>ける", 
+  "news_id": "k10011039191000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170703/../20170703/K10011039191_1707030512_1707030516_01_03.jpg?utm_int=word_contents_list-items_001&word_result=%E8%97%A4%E4%BA%95%E5%9B%9B%E6%AE%B5", 
+  "news_easy_movie_uri": "''"
+}

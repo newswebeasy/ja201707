@@ -1,0 +1,30 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>、<ruby><rb>市町村</rb><rt>しちょうそん</rt></ruby>が、そこに<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>人</rb><rt>ひと</rt></ruby>から<ruby><rb>集</rb><rt>あつ</rt></ruby>めるお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "税金"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>港</rb><rt>みなと</rt></ruby>や<ruby><rb>空港</rb><rt>くうこう</rt></ruby>や<ruby><rb>国境</rb><rt>こっきょう</rt></ruby>で、<ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>出入</rb><rt>でい</rt></ruby>りする<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、それに<ruby><rb>税金</rb><rt>ぜいきん</rt></ruby>をかけたりする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "税関"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "検査"
+          ]
+        }
+      ]
+    }
+  }
+}
