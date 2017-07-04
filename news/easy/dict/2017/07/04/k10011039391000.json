@@ -1,0 +1,94 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>打</rb><rt>う</rt></ruby>つ。",
+          "hyouki": [
+            "殴る"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "しるし。<ruby><rb>記号</rb><rt>きごう</rt></ruby>。また、しるしをつけること。",
+          "hyouki": [
+            "マーク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>目</rb><rt>め</rt></ruby>をつけて<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>すること。",
+          "hyouki": [
+            "マーク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>記録</rb><rt>きろく</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ること。",
+          "hyouki": [
+            "マーク"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>打</rb><rt>う</rt></ruby>つ。",
+          "hyouki": [
+            "殴る"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>入場料</rb><rt>にゅうじょうりょう</rt></ruby>をとって<ruby><rb>見</rb><rt>み</rt></ruby>せるために<ruby><rb>行</rb><rt>おこな</rt></ruby>うレスリング。",
+          "hyouki": [
+            "プロレス"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。",
+          "hyouki": [
+            "辞める"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>認</rb><rt>みと</rt></ruby>めさせようとして、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>勢</rb><rt>いきお</rt></ruby>いを<ruby><rb>示</rb><rt>しめ</rt></ruby>すこと。また、そのための<ruby><rb>行進</rb><rt>こうしん</rt></ruby>。",
+          "hyouki": [
+            "デモ"
+          ]
+        }
+      ]
+    }
+  }
+}

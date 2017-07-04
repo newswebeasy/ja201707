@@ -1,0 +1,22 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>急病人</rb><rt>きゅうびょうにん</rt></ruby>やけが<ruby><rb>人</rb><rt>にん</rt></ruby>を、すぐ<ruby><rb>病院</rb><rt>びょういん</rt></ruby>へ<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。<ruby><rb>消防署</rb><rt>しょうぼうしょ</rt></ruby>で<ruby><rb>管理</rb><rt>かんり</rt></ruby>している。",
+          "hyouki": [
+            "救急車"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ちがうことばを<ruby><rb>話</rb><rt>はな</rt></ruby>す<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>って、<ruby><rb>両方</rb><rt>りょうほう</rt></ruby>のことばを<ruby><rb>翻訳</rb><rt>ほんやく</rt></ruby>して<ruby><rb>伝</rb><rt>つた</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "通訳"
+          ]
+        }
+      ]
+    }
+  }
+}

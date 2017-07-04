@@ -1,0 +1,166 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "いっぱいになって、こぼれる。",
+          "hyouki": [
+            "あふれる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。",
+          "hyouki": [
+            "あふれる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>別々</rb><rt>べつべつ</rt></ruby>にする。はなす。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>配</rb><rt>くば</rt></ruby>る。<ruby><rb>分配</rb><rt>ぶんぱい</rt></ruby>する。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>に、おし<ruby><rb>開</rb><rt>ひら</rt></ruby>く。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>分</rb><rt>わ</rt></ruby>けにする。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てる。",
+          "hyouki": [
+            "分ける"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>赤</rb><rt>あか</rt></ruby>と<ruby><rb>青</rb><rt>あお</rt></ruby>の<ruby><rb>混</rb><rt>ま</rt></ruby>じった<ruby><rb>色</rb><rt>いろ</rt></ruby>。",
+          "hyouki": [
+            "紫"
+          ]
+        },
+        {
+          "def": "<ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>小花</rb><rt>こばな</rt></ruby>をつける<ruby><rb>草</rb><rt>くさ</rt></ruby>。<ruby><rb>根</rb><rt>ね</rt></ruby>からむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>染料</rb><rt>せんりょう</rt></ruby>をとる。",
+          "hyouki": [
+            "紫"
+          ]
+        },
+        {
+          "def": "「しょうゆ」の<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "紫"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "いっぱいになって、こぼれる。",
+          "hyouki": [
+            "あふれる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。",
+          "hyouki": [
+            "あふれる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。",
+          "hyouki": [
+            "災害"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、<ruby><rb>地面</rb><rt>じめん</rt></ruby>より<ruby><rb>高</rb><rt>たか</rt></ruby>く、<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>張</rb><rt>は</rt></ruby>ったところ。",
+          "hyouki": [
+            "床"
+          ]
+        }
+      ]
+    }
+  }
+}
