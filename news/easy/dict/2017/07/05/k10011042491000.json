@@ -1,0 +1,66 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>手間</rb><rt>てま</rt></ruby>がかからないで、すぐできること。<ruby><rb>即席</rb><rt>そくせき</rt></ruby>。",
+          "hyouki": [
+            "インスタント"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "そば・うどんなど。",
+          "hyouki": [
+            "麺"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>が<ruby><rb>育</rb><rt>そだ</rt></ruby>って<ruby><rb>大</rb><rt>おお</rt></ruby>きくなること。",
+          "hyouki": [
+            "成長"
+          ]
+        },
+        {
+          "def": "ものごとが<ruby><rb>発展</rb><rt>はってん</rt></ruby>すること。",
+          "hyouki": [
+            "成長"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>買</rb><rt>か</rt></ruby>ったりするための<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "商品"
+          ]
+        }
+      ]
+    }
+  }
+}

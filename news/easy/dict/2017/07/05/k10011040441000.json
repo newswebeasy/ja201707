@@ -1,0 +1,139 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "１００<ruby><rb>年</rb><rt>ねん</rt></ruby>を<ruby><rb>単位</rb><rt>たんい</rt></ruby>として<ruby><rb>数</rb><rt>かぞ</rt></ruby>える<ruby><rb>年代</rb><rt>ねんだい</rt></ruby>の<ruby><rb>数</rb><rt>かぞ</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>西暦</rb><rt>せいれき</rt></ruby>１<ruby><rb>年</rb><rt>ねん</rt></ruby>から１００<ruby><rb>年</rb><rt>ねん</rt></ruby>までを<ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>と<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶ。<ruby><rb>２１世紀</rb><rt>にじゅういっせいき</rt></ruby>は２００１<ruby><rb>年</rb><rt>ねん</rt></ruby>から２１００<ruby><rb>年</rb><rt>ねん</rt></ruby>まで。",
+          "hyouki": [
+            "世紀"
+          ]
+        },
+        {
+          "def": "<ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>に<ruby><rb>１度</rb><rt>いちど</rt></ruby>しかないようなもの。",
+          "hyouki": [
+            "世紀"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "アコヤガイなどの<ruby><rb>貝類</rb><rt>かいるい</rt></ruby>のからの<ruby><rb>中</rb><rt>なか</rt></ruby>にできる、<ruby><rb>銀色</rb><rt>ぎんいろ</rt></ruby>やもも<ruby><rb>色</rb><rt>いろ</rt></ruby>に<ruby><rb>光</rb><rt>ひか</rt></ruby>る<ruby><rb>玉</rb><rt>たま</rt></ruby>。<ruby><rb>指輪</rb><rt>ゆびわ</rt></ruby>や<ruby><rb>首</rb><rt>くび</rt></ruby>かざりなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。パール。",
+          "hyouki": [
+            "真珠"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>宝石</rb><rt>ほうせき</rt></ruby>。",
+          "hyouki": [
+            "玉"
+          ]
+        },
+        {
+          "def": "<ruby><rb>美</rb><rt>うつく</rt></ruby>しいもの。<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>なもの。",
+          "hyouki": [
+            "玉"
+          ]
+        },
+        {
+          "def": "<ruby><rb>丸</rb><rt>まる</rt></ruby>いもの。",
+          "hyouki": [
+            "玉"
+          ]
+        },
+        {
+          "def": "<ruby><rb>丸</rb><rt>まる</rt></ruby>めたもの。",
+          "hyouki": [
+            "玉"
+          ]
+        },
+        {
+          "def": "レンズ。",
+          "hyouki": [
+            "玉"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>円</rb><rt>えん</rt></ruby>または<ruby><rb>球</rb><rt>きゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>って、<ruby><rb>円周</rb><rt>えんしゅう</rt></ruby>や<ruby><rb>球面上</rb><rt>きゅうめんじょう</rt></ruby>の<ruby><rb>二点</rb><rt>にてん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>。さしわたし。",
+          "hyouki": [
+            "直径"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>には<ruby><rb>見</rb><rt>み</rt></ruby>えないが、<ruby><rb>物</rb><rt>もの</rt></ruby>をすかし<ruby><rb>通</rb><rt>とお</rt></ruby>す<ruby><rb>力</rb><rt>ちから</rt></ruby>の<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>放射</rb><rt>ほうしゃ</rt></ruby><ruby><rb>線</rb><rt>せん</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>内部</rb><rt>ないぶ</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べるのに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "エックス線",
+            "X線"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby><ruby><rb>３大宗教</rb><rt>さんだいしゅうきょう</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。<ruby><rb>紀元前</rb><rt>きげんぜん</rt></ruby>５００<ruby><rb>年</rb><rt>ねん</rt></ruby>ごろ、インドで<ruby><rb>釈迦</rb><rt>しゃか</rt></ruby>が<ruby><rb>説</rb><rt>と</rt></ruby>いた<ruby><rb>教</rb><rt>おし</rt></ruby>え。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>には、<ruby><rb>６</rb><rt>ろく</rt></ruby><ruby><rb>世紀</rb><rt>せいき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>ごろ<ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>して<ruby><rb>伝</rb><rt>つた</rt></ruby>わった。",
+          "hyouki": [
+            "仏教"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>少</rb><rt>すこ</rt></ruby>ししかなく、<ruby><rb>貴重</rb><rt>きちょう</rt></ruby>なもの。<ruby><rb>金</rb><rt>きん</rt></ruby>・<ruby><rb>銀</rb><rt>ぎん</rt></ruby>・<ruby><rb>宝石</rb><rt>ほうせき</rt></ruby>など。",
+          "hyouki": [
+            "宝"
+          ]
+        },
+        {
+          "def": "<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>な<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "宝"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。<ruby><rb>金</rb><rt>きん</rt></ruby>・<ruby><rb>銀</rb><rt>ぎん</rt></ruby>・<ruby><rb>鉄</rb><rt>てつ</rt></ruby>など。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>鉄</rb><rt>てつ</rt></ruby>をいうことが<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "かへい。お<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "金"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>白</rb><rt>しろ</rt></ruby>くて<ruby><rb>美</rb><rt>うつく</rt></ruby>しいつやを<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>金</rb><rt>きん</rt></ruby>より<ruby><rb>軽</rb><rt>かる</rt></ruby>くてかたい。",
+          "hyouki": [
+            "銀"
+          ]
+        },
+        {
+          "def": "ぎん<ruby><rb>色</rb><rt>いろ</rt></ruby>。",
+          "hyouki": [
+            "銀"
+          ]
+        },
+        {
+          "def": "おかね。",
+          "hyouki": [
+            "銀"
+          ]
+        },
+        {
+          "def": "<ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "銀"
+          ]
+        }
+      ]
+    }
+  }
+}

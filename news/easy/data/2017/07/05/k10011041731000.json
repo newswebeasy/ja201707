@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011041731000.mp3", 
+  "title": "大阪にもヒアリがいた　女王アリも初めて見つかった", 
+  "news_prearranged_time": "2017-07-05 15:40:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p>「ヒアリ」は、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>南<rt>みなみ</rt></ruby>アメリカ</a>で<ruby>生<rt>う</rt></ruby>まれた<a href='javascript:void(0)' class='dicWin' id='id-0001'>アリ</a>です。", 
+  "news_web_movie_uri": "k10011041731_201707041927_201707041928.mp4", 
+  "title_with_ruby": "<ruby>大阪<rt>おおさか</rt></ruby>にもヒアリがいた　<ruby>女王<rt>じょおう</rt></ruby>アリも<ruby>初<rt>はじ</rt></ruby>めて<ruby>見<rt>み</rt></ruby>つかった", 
+  "news_id": "k10011041731000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170704/../20170704/K10011041731_1707041927_1707041929_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

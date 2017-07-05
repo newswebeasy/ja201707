@@ -1,0 +1,100 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>南</rb><rt>みなみ</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>と、<ruby><rb>周辺</rb><rt>しゅうへん</rt></ruby>の<ruby><rb>島々</rb><rt>しまじま</rt></ruby>をふくむ<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。<ruby><rb>東</rb><rt>ひがし</rt></ruby>は<ruby><rb>大西洋</rb><rt>たいせいよう</rt></ruby>、<ruby><rb>西</rb><rt>にし</rt></ruby>は<ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>に<ruby><rb>面</rb><rt>めん</rt></ruby>し、<ruby><rb>北</rb><rt>きた</rt></ruby>は<ruby><rb>北</rb><rt>きた</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>につながる。ブラジル・アルゼンチン・チリなどの<ruby><rb>国</rb><rt>くに</rt></ruby>がある。<ruby><rb>南米</rb><rt>なんべい</rt></ruby>。",
+          "hyouki": [
+            "南アメリカ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>や、たおれた<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>などに<ruby><rb>巣</rb><rt>す</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>昆虫</rb><rt>こんちゅう</rt></ruby>。クロオオアリ・アミメアリなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうむ<ruby><rb>女王</rb><rt>じょおう</rt></ruby>アリを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>に、<ruby><rb>雄</rb><rt>おす</rt></ruby>アリと<ruby><rb>働</rb><rt>はたら</rt></ruby>きアリが<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>している。",
+          "hyouki": [
+            "蟻"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>のあるもの。<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>傷</rb><rt>きず</rt></ruby>つけるもの。",
+          "hyouki": [
+            "毒"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "とがったものをつき<ruby><rb>通</rb><rt>とお</rt></ruby>す。",
+          "hyouki": [
+            "刺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>鼻</rb><rt>はな</rt></ruby>・<ruby><rb>舌</rb><rt>した</rt></ruby>・はだなどに、するどい<ruby><rb>刺激</rb><rt>しげき</rt></ruby>をあたえる。",
+          "hyouki": [
+            "刺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>走者</rb><rt>そうしゃ</rt></ruby>にタッチして、アウトにする。",
+          "hyouki": [
+            "刺す"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>公害</rb><rt>こうがい</rt></ruby>をなくし、<ruby><rb>自然</rb><rt>しぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "環境省"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。",
+          "hyouki": [
+            "殺す"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "産む"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "産む"
+          ]
+        }
+      ]
+    }
+  }
+}
