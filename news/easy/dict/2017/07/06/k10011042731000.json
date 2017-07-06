@@ -1,0 +1,48 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>が<ruby><rb>港</rb><rt>みなと</rt></ruby>にとまる。",
+          "hyouki": [
+            "泊"
+          ]
+        },
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>家</rb><rt>いえ</rt></ruby>でない<ruby><rb>所</rb><rt>ところ</rt></ruby>にとまる。",
+          "hyouki": [
+            "泊"
+          ]
+        },
+        {
+          "def": "あっさりしている。",
+          "hyouki": [
+            "泊"
+          ]
+        },
+        {
+          "def": "とまった<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "泊"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。",
+          "hyouki": [
+            "社員"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ]
+    }
+  }
+}

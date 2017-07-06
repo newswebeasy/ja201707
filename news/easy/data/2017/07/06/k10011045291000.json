@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011045291000.mp3", 
+  "title": "福岡県と大分県で強い雨がたくさん降って危険になる", 
+  "news_prearranged_time": "2017-07-06 16:35:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>５日<rt>いつか</rt></ruby>から<ruby>６日<rt>むいか</rt></ruby>、<ruby>九州<rt>きゅうしゅう</rt></ruby>では<ruby>強<rt>つよ</rt></ruby>い<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>りました。", 
+  "news_web_movie_uri": "k10011045291_201707060928_201707060932.mp4", 
+  "title_with_ruby": "<ruby>福岡県<rt>ふくおかけん</rt></ruby>と<ruby>大分県<rt>おおいたけん</rt></ruby>で<ruby>強<rt>つよ</rt></ruby>い<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>って<ruby>危険<rt>きけん</rt></ruby>になる", 
+  "news_id": "k10011045291000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170706/../20170706/K10011045291_1707061128_1707061131_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

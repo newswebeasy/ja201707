@@ -1,0 +1,124 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。",
+          "hyouki": [
+            "災害"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>激</rb><rt>はげ</rt></ruby>しくたくさん<ruby><rb>降</rb><rt>ふ</rt></ruby>る<ruby><rb>雨</rb><rt>あめ</rt></ruby>。<ruby><rb>豪雨</rb><rt>ごうう</rt></ruby>。",
+          "hyouki": [
+            "大雨"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>危険</rb><rt>きけん</rt></ruby>が<ruby><rb>起</rb><rt>お</rt></ruby>こりそうなときに、<ruby><rb>警戒</rb><rt>けいかい</rt></ruby>のために<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "警報"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "こわれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "ばらばらになる。<ruby><rb>乱</rb><rt>みだ</rt></ruby>れる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>くなる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "いっぱいになって、こぼれる。",
+          "hyouki": [
+            "あふれる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。",
+          "hyouki": [
+            "あふれる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために、<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby><ruby><rb>後</rb><rt>ご</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>防衛組織</rb><rt>ぼうえいそしき</rt></ruby>。<ruby><rb>陸上</rb><rt>りくじょう</rt></ruby>・<ruby><rb>海上</rb><rt>かいじょう</rt></ruby>・<ruby><rb>航空</rb><rt>こうくう</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>かれる。",
+          "hyouki": [
+            "自衛隊"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ]
+    }
+  }
+}
