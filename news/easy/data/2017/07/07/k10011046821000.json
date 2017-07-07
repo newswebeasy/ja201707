@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011046821000.mp3", 
+  "title": "東京の港でも「ヒアリ」が見つかる", 
+  "news_prearranged_time": "2017-07-07 15:55:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>品川区<rt>しながわく</rt></ruby>にある<ruby>港<rt>みなと</rt></ruby>の<ruby>大井<rt>おおい</rt></ruby>ふ<ruby>頭<rt>とう</rt></ruby>で７<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>、<ruby>船<rt>ふね</rt></ruby>で<ruby>運<rt>はこ</rt></ruby>んできた<a href='javascript:void(0)' class='dicWin' id='id-0000'>コンテナ</a>から「ヒアリ」が１<ruby>匹<rt>ぴき</rt></ruby><ruby>見<rt>み</rt></ruby>つかりました。", 
+  "news_web_movie_uri": "k10011046821_201707061849_201707061850.mp4", 
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>港<rt>みなと</rt></ruby>でも「ヒアリ」が<ruby>見<rt>み</rt></ruby>つかる", 
+  "news_id": "k10011046821000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170706/../20170706/K10011046821_1707061849_1707061850_01_03.jpg?utm_int=news-social_contents_list-items_017", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011047501000.mp3", 
+  "title": "九州で激しい雨が続いて福岡県と大分県で７人が亡くなる", 
+  "news_prearranged_time": "2017-07-07 15:55:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>九州<rt>きゅうしゅう</rt></ruby>では<ruby>５日<rt>いつか</rt></ruby>から<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>激<rt>はげ</rt></ruby>しい</a><ruby>雨<rt>あめ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>きました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>九州<rt>きゅうしゅう</rt></ruby>で<ruby>激<rt>はげ</rt></ruby>しい<ruby>雨<rt>あめ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて<ruby>福岡県<rt>ふくおかけん</rt></ruby>と<ruby>大分県<rt>おおいたけん</rt></ruby>で７<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる", 
+  "news_id": "k10011047501000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170707/../20170707/K10011047501_1707070213_1707070216_01_02.jpg?utm_int=news_contents_news-main_003", 
+  "news_easy_movie_uri": "''"
+}
