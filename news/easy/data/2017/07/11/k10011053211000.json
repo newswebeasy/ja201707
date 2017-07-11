@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011053211000.mp3", 
+  "title": "富士山の５合目　９月までは自分の車で行くことができない", 
+  "news_prearranged_time": "2017-07-11 16:10:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>山梨県<rt>やまなしけん</rt></ruby>から<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>富士山<rt>ふじさん</rt></ruby></a>の５<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>合<rt>ごう</rt></ruby></a><ruby>目<rt>め</rt></ruby>に<ruby>行<rt>い</rt></ruby>く「<ruby>富士<rt>ふじ</rt></ruby>スバルライン」という<ruby>道<rt>みち</rt></ruby>が、<ruby>１０日<rt>とおか</rt></ruby><ruby>午後<rt>ごご</rt></ruby>５<ruby>時<rt>じ</rt></ruby>から<ruby>自分<rt>じぶん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>で<ruby>通<rt>とお</rt></ruby>ることができなくなりました。", 
+  "news_web_movie_uri": "k10011053211_201707110754_201707110801.mp4", 
+  "title_with_ruby": "<ruby>富士山<rt>ふじさん</rt></ruby>の５<ruby>合<rt>ごう</rt></ruby><ruby>目<rt>め</rt></ruby>　９<ruby>月<rt>がつ</rt></ruby>までは<ruby>自分<rt>じぶん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>で<ruby>行<rt>い</rt></ruby>くことができない", 
+  "news_id": "k10011053211000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170711/../20170711/K10011053211_1707110754_1707110802_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

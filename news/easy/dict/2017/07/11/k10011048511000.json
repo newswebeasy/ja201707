@@ -1,0 +1,104 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "こわれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "ばらばらになる。<ruby><rb>乱</rb><rt>みだ</rt></ruby>れる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>くなる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。",
+          "hyouki": [
+            "役所"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>災害</rb><rt>さいがい</rt></ruby>にあうこと。",
+          "hyouki": [
+            "り災"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>で<ruby><rb>少</rb><rt>すこ</rt></ruby>しずつお<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てておき、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>や<ruby><rb>事故</rb><rt>じこ</rt></ruby>などの<ruby><rb>災難</rb><rt>さいなん</rt></ruby>にあった<ruby><rb>人</rb><rt>ひと</rt></ruby>が、<ruby><rb>決</rb><rt>き</rt></ruby>まったお<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>取</rb><rt>と</rt></ruby>る<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。",
+          "hyouki": [
+            "保険"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>貸家</rb><rt>かしや</rt></ruby>やアパートなどの<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>主</rb><rt>ぬし</rt></ruby>。<ruby><rb>家主</rb><rt>やぬし</rt></ruby>。",
+          "hyouki": [
+            "大家"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に、<ruby><rb>備</rb><rt>そな</rt></ruby>えつけて<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。たんす・テーブル・<ruby><rb>本箱</rb><rt>ほんばこ</rt></ruby>など。",
+          "hyouki": [
+            "家具"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。",
+          "hyouki": [
+            "避難"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "インターネット<ruby><rb>上</rb><rt>じょう</rt></ruby>で<ruby><rb>公開</rb><rt>こうかい</rt></ruby>されていて<ruby><rb>読</rb><rt>よ</rt></ruby>み<ruby><rb>手</rb><rt>て</rt></ruby>と<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>のやりとりのできる、<ruby><rb>日記</rb><rt>にっき</rt></ruby>ふうのサイト（ページ）。",
+          "hyouki": [
+            "ブログ"
+          ]
+        }
+      ]
+    }
+  }
+}
