@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011052071000.mp3", 
+  "title": "東京都　普通の電球２個をＬＥＤの電球１個に取り替える", 
+  "news_prearranged_time": "2017-07-12 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>東京都<rt>とうきょうと</rt></ruby>では<ruby>１０日<rt>とおか</rt></ruby>から、<ruby>家<rt>いえ</rt></ruby>で<ruby>使<rt>つか</rt></ruby>っている<ruby>普通<rt>ふつう</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>電球<rt>でんきゅう</rt></ruby></a>２<ruby>個<rt>こ</rt></ruby>を<ruby>店<rt>みせ</rt></ruby>に<ruby>持<rt>も</rt></ruby>っていくと、<a href='javascript:void(0)' class='dicWin' id='id-0001'>ＬＥＤ</a>の<ruby>新<rt>あたら</rt></ruby>しい<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>電球<rt>でんきゅう</rt></ruby></a>１<ruby>個<rt>こ</rt></ruby>に<ruby>取<rt>と</rt></ruby>り<ruby>替<rt>か</rt></ruby>えることができます。", 
+  "news_web_movie_uri": "k10011052071_201707101223_201707101223.mp4", 
+  "title_with_ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>　<ruby>普通<rt>ふつう</rt></ruby>の<ruby>電球<rt>でんきゅう</rt></ruby>２<ruby>個<rt>こ</rt></ruby>をＬＥＤの<ruby>電球<rt>でんきゅう</rt></ruby>１<ruby>個<rt>こ</rt></ruby>に<ruby>取<rt>と</rt></ruby>り<ruby>替<rt>か</rt></ruby>える", 
+  "news_id": "k10011052071000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170710/../20170710/K10011052071_1707101223_1707101237_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

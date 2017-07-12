@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011052571000.mp3", 
+  "title": "大腸のがんをコンピューターで見つける", 
+  "news_prearranged_time": "2017-07-12 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>国立<rt>こくりつ</rt></ruby>がん<ruby>研究<rt>けんきゅう</rt></ruby>センターとＮＥＣは、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>大腸<rt>だいちょう</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0001'>がん</a>を<ruby>見<rt>み</rt></ruby>つけて<ruby>医者<rt>いしゃ</rt></ruby>に<ruby>知<rt>し</rt></ruby>らせるコンピューターの<a href='javascript:void(0)' class='dicWin' id='id-0002'>システム</a>を<ruby>作<rt>つく</rt></ruby>りました。", 
+  "news_web_movie_uri": "k10011052571_201707101809_201707101811.mp4", 
+  "title_with_ruby": "<ruby>大腸<rt>だいちょう</rt></ruby>のがんをコンピューターで<ruby>見<rt>み</rt></ruby>つける", 
+  "news_id": "k10011052571000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170710/../20170710/K10011052571_1707101750_1707101801_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

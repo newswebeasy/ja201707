@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011054851000.mp3", 
+  "title": "木の中を食べてしまうカミキリムシの被害が増えている", 
+  "news_prearranged_time": "2017-07-12 16:15:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>「クビアカツヤカミキリ」という<a href='javascript:void(0)' class='dicWin' id='id-0000'>カミキリムシ</a>は<ruby>中国<rt>ちゅうごく</rt></ruby>やベトナムなどで<ruby>生<rt>う</rt></ruby>まれた<ruby>虫<rt>むし</rt></ruby>で、たくさん<ruby>卵<rt>たまご</rt></ruby>を<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>産<rt>う</rt></ruby>み</a>ます。", 
+  "news_web_movie_uri": "k10011054851_201707112156_201707112157.mp4", 
+  "title_with_ruby": "<ruby>木<rt>き</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>食<rt>た</rt></ruby>べてしまうカミキリムシの<ruby>被害<rt>ひがい</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている", 
+  "news_id": "k10011054851000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170711/../20170711/K10011054851_1707112156_1707112157_01_03.jpg?utm_int=all_side_ranking-access_004", 
+  "news_easy_movie_uri": "''"
+}

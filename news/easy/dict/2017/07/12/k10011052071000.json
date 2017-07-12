@@ -1,0 +1,112 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>電灯</rb><rt>でんとう</rt></ruby>のガラスの<ruby><rb>球</rb><rt>たま</rt></ruby>。<ruby><rb>球</rb><rt>たま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に、フィラメントが<ruby><rb>入</rb><rt>い</rt></ruby>れてある。",
+          "hyouki": [
+            "電球"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>が<ruby><rb>流</rb><rt>なが</rt></ruby>れると、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>さずに<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。<ruby><rb>電力消費</rb><rt>でんりょくしょうひ</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なく、<ruby><rb>寿命</rb><rt>じゅみょう</rt></ruby>が<ruby><rb>長</rb><rt>なが</rt></ruby>いため、<ruby><rb>白熱電球</rb><rt>はくねつでんきゅう</rt></ruby>や<ruby><rb>蛍光灯</rb><rt>けいこうとう</rt></ruby>にかわる<ruby><rb>光源</rb><rt>こうげん</rt></ruby>として<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "LED"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>炭素</rb><rt>たんそ</rt></ruby>と<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>の<ruby><rb>化合物</rb><rt>かごうぶつ</rt></ruby>で、<ruby><rb>色</rb><rt>いろ</rt></ruby>もにおいもない<ruby><rb>気体</rb><rt>きたい</rt></ruby>。<ruby><rb>炭火</rb><rt>すみび</rt></ruby>の<ruby><rb>燃</rb><rt>も</rt></ruby>えるときなどに<ruby><rb>発生</rb><rt>はっせい</rt></ruby>し、<ruby><rb>人</rb><rt>ひと</rt></ruby>のはく<ruby><rb>息</rb><rt>いき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にもふくまれている。ドライアイス・ソーダ<ruby><rb>水</rb><rt>すい</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。<ruby><rb>炭酸</rb><rt>たんさん</rt></ruby>ガス。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「<ruby><rb>CO<span class=\"dic_sub\">2</span></rb><rt>シーオーツー</rt></ruby>」。",
+          "hyouki": [
+            "二酸化炭素"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。１トンは、１０００キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。",
+          "hyouki": [
+            "トン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "トン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "トン"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>少</rb><rt>すく</rt></ruby>なくする。",
+          "hyouki": [
+            "減らす"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、はたらかせる<ruby><rb>機械</rb><rt>きかい</rt></ruby>。<ruby><rb>電気冷蔵庫</rb><rt>でんきれいぞうこ</rt></ruby>・<ruby><rb>電気洗濯機</rb><rt>でんきせんたくき</rt></ruby>など。",
+          "hyouki": [
+            "電化製品"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あることがらについて、<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などが<ruby><rb>許</rb><rt>ゆる</rt></ruby>しをあたえること。",
+          "hyouki": [
+            "免許"
+          ]
+        },
+        {
+          "def": "<ruby><rb>芸</rb><rt>げい</rt></ruby>ごとで、<ruby><rb>先生</rb><rt>せんせい</rt></ruby>が<ruby><rb>弟子</rb><rt>でし</rt></ruby>にあたえる<ruby><rb>資格</rb><rt>しかく</rt></ruby>。",
+          "hyouki": [
+            "免許"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "まちがっていないことを<ruby><rb>明</rb><rt>あき</rt></ruby>らかにする。あかしをたてる。",
+          "hyouki": [
+            "証"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "知事"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>大気中</rb><rt>たいきちゅう</rt></ruby>の<ruby><rb>二酸化炭素</rb><rt>にさんかたんそ</rt></ruby>（<ruby><rb>CO<span class=\"dic_sub\">2</span></rb><rt>シーオーツー</rt></ruby>）が<ruby><rb>増</rb><rt>ふ</rt></ruby>えて、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>気温</rb><rt>きおん</rt></ruby>が<ruby><rb>上</rb><rt>あ</rt></ruby>がること。<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>や<ruby><rb>北極</rb><rt>ほっきょく</rt></ruby>の<ruby><rb>氷</rb><rt>こおり</rt></ruby>が<ruby><rb>解</rb><rt>と</rt></ruby>けて<ruby><rb>海面</rb><rt>かいめん</rt></ruby>が<ruby><rb>高</rb><rt>たか</rt></ruby>くなったり、<ruby><rb>農作物</rb><rt>のうさくぶつ</rt></ruby>にひがいが<ruby><rb>出</rb><rt>で</rt></ruby>たりする。",
+          "hyouki": [
+            "地球温暖化"
+          ]
+        }
+      ]
+    }
+  }
+}

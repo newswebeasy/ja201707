@@ -1,0 +1,112 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>消化器</rb><rt>しょうかき</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>小腸</rb><rt>しょうちょう</rt></ruby>に<ruby><rb>続</rb><rt>つづ</rt></ruby>き、<ruby><rb>肛門</rb><rt>こうもん</rt></ruby>に<ruby><rb>至</rb><rt>いた</rt></ruby>る<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。おもに<ruby><rb>水分</rb><rt>すいぶん</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>い<ruby><rb>取</rb><rt>と</rt></ruby>るはたらきをする。",
+          "hyouki": [
+            "大腸"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>悪性</rb><rt>あくせい</rt></ruby>のはれものができる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にできたがん<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>がどんどん<ruby><rb>増</rb><rt>ふ</rt></ruby>えて<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>害</rb><rt>がい</rt></ruby>をあたえる。",
+          "hyouki": [
+            "がん"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。",
+          "hyouki": [
+            "システム"
+          ]
+        },
+        {
+          "def": "ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。",
+          "hyouki": [
+            "システム"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。",
+          "hyouki": [
+            "健康"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。",
+          "hyouki": [
+            "健康"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "検査"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "まるい<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。<ruby><rb>円形</rb><rt>えんけい</rt></ruby>。<ruby><rb>球形</rb><rt>きゅうけい</rt></ruby>。",
+          "hyouki": [
+            "丸"
+          ]
+        },
+        {
+          "def": "<ruby><rb>文</rb><rt>ぶん</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりにつける<ruby><rb>小</rb><rt>ちい</rt></ruby>さな、まるいしるし。「。」のこと。<ruby><rb>句点</rb><rt>くてん</rt></ruby>。",
+          "hyouki": [
+            "丸"
+          ]
+        },
+        {
+          "def": "「<ruby><rb>完全</rb><rt>かんぜん</rt></ruby>」「<ruby><rb>全部</rb><rt>ぜんぶ</rt></ruby>」「ちょうど」などの<ruby><rb>意味</rb><rt>いみ</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。",
+          "hyouki": [
+            "丸"
+          ]
+        },
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>や<ruby><rb>刀</rb><rt>かたな</rt></ruby>や<ruby><rb>子</rb><rt>こ</rt></ruby>どもの<ruby><rb>名前</rb><rt>なまえ</rt></ruby>などにつけることば。",
+          "hyouki": [
+            "丸"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ものごとのなりゆきや、<ruby><rb>結果</rb><rt>けっか</rt></ruby>などを<ruby><rb>知</rb><rt>し</rt></ruby>らせること。また、その<ruby><rb>内容</rb><rt>ないよう</rt></ruby>。",
+          "hyouki": [
+            "報告"
+          ]
+        }
+      ]
+    }
+  }
+}
