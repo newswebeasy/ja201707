@@ -1,0 +1,30 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "コンピューターを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とした<ruby><rb>情報技術</rb><rt>じょうほうぎじゅつ</rt></ruby>。",
+          "hyouki": [
+            "IT"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。",
+          "hyouki": [
+            "社員"
+          ]
+        }
+      ]
+    }
+  }
+}

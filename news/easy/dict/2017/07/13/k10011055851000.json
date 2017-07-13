@@ -1,0 +1,86 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。",
+          "hyouki": [
+            "社員"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>絶</rb><rt>た</rt></ruby>つこと。<ruby><rb>自害</rb><rt>じがい</rt></ruby>。",
+          "hyouki": [
+            "自殺"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>が、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>にもとづいて、それがよいか<ruby><rb>悪</rb><rt>わる</rt></ruby>いかを<ruby><rb>決</rb><rt>き</rt></ruby>めること。",
+          "hyouki": [
+            "裁判"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。また、<ruby><rb>知</rb><rt>し</rt></ruby>らせるために<ruby><rb>書</rb><rt>か</rt></ruby>かれたものなど。コマーシャル。",
+          "hyouki": [
+            "広告"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>犯罪</rb><rt>はんざい</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べ、<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>にうったえる<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>検察官</rb><rt>けんさつかん</rt></ruby>は、ここで<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をしている。",
+          "hyouki": [
+            "検察庁"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。",
+          "hyouki": [
+            "違反"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>罰</rb><rt>ばつ</rt></ruby>として<ruby><rb>出</rb><rt>だ</rt></ruby>させるお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "罰金"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>書</rb><rt>か</rt></ruby>きつけ。<ruby><rb>文書</rb><rt>ぶんしょ</rt></ruby>。",
+          "hyouki": [
+            "書類"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>裁判</rb><rt>さいばん</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>最高</rb><rt>さいこう</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>・<ruby><rb>高等</rb><rt>こうとう</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>・<ruby><rb>地方裁判所</rb><rt>ちほうさいばんしょ</rt></ruby>・<ruby><rb>家庭</rb><rt>かてい</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>・<ruby><rb>簡易</rb><rt>かんい</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>がある。",
+          "hyouki": [
+            "裁判所"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>母</rb><rt>はは</rt></ruby>。",
+          "hyouki": [
+            "母親"
+          ]
+        }
+      ]
+    }
+  }
+}

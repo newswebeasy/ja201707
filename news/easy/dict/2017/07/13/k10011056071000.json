@@ -1,0 +1,94 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>が<ruby><rb>空気中</rb><rt>くうきちゅう</rt></ruby>を<ruby><rb>流</rb><rt>なが</rt></ruby>れ、<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>光</rb><rt>ひかり</rt></ruby>と、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すもの。",
+          "hyouki": [
+            "雷"
+          ]
+        },
+        {
+          "def": "<ruby><rb>腹</rb><rt>はら</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>ててどなりつけること。",
+          "hyouki": [
+            "雷"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>宝</rb><rt>たから</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>指定</rb><rt>してい</rt></ruby>し、<ruby><rb>保護</rb><rt>ほご</rt></ruby>している<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>・<ruby><rb>絵</rb><rt>え</rt></ruby>など。",
+          "hyouki": [
+            "国宝"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>大名</rb><rt>だいみょう</rt></ruby>などが、<ruby><rb>敵</rb><rt>てき</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>大</rb><rt>おお</rt></ruby>がかりな<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "城"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>雨</rb><rt>あめ</rt></ruby>などを<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために、<ruby><rb>家</rb><rt>いえ</rt></ruby>をおおうもの。",
+          "hyouki": [
+            "屋根"
+          ]
+        },
+        {
+          "def": "<ruby><rb>上</rb><rt>うえ</rt></ruby>をおおうもの。",
+          "hyouki": [
+            "屋根"
+          ]
+        },
+        {
+          "def": "いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "屋根"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>屋根</rb><rt>やね</rt></ruby>をおおうのに<ruby><rb>使</rb><rt>つか</rt></ruby>うもの。<ruby><rb>粘土</rb><rt>ねんど</rt></ruby>を<ruby><rb>固</rb><rt>かた</rt></ruby>めてのばし、かまで<ruby><rb>焼</rb><rt>や</rt></ruby>いて<ruby><rb>作</rb><rt>つく</rt></ruby>る。",
+          "hyouki": [
+            "瓦"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>を、いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>けたものの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "部分"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "かみなりの<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>などの<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>付</rb><rt>つ</rt></ruby>けた<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>棒</rb><rt>ぼう</rt></ruby>。かみなりが<ruby><rb>落</rb><rt>お</rt></ruby>ちると<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>がこの<ruby><rb>棒</rb><rt>ぼう</rt></ruby>を<ruby><rb>伝</rb><rt>つた</rt></ruby>って<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>に<ruby><rb>流</rb><rt>なが</rt></ruby>れる。",
+          "hyouki": [
+            "避雷針"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ある<ruby><rb>物</rb><rt>もの</rt></ruby>に<ruby><rb>加</rb><rt>くわ</rt></ruby>えられる<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>力</rb><rt>ちから</rt></ruby>。しょうげき。",
+          "hyouki": [
+            "ショック"
+          ]
+        },
+        {
+          "def": "<ruby><rb>激</rb><rt>はげ</rt></ruby>しいおどろき。<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>動揺</rb><rt>どうよう</rt></ruby>。",
+          "hyouki": [
+            "ショック"
+          ]
+        }
+      ]
+    }
+  }
+}

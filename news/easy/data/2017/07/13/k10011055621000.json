@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011055621000.mp3", 
+  "title": "子どもが遊ぶ滑り台などがある映画館ができる", 
+  "news_prearranged_time": "2017-07-13 16:25:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>愛知県<rt>あいちけん</rt></ruby><ruby>常滑<rt>とこなめ</rt></ruby><ruby>市<rt>し</rt></ruby>に、<ruby>子<rt>こ</rt></ruby>どもが<ruby>遊<rt>あそ</rt></ruby>ぶ<ruby>道具<rt>どうぐ</rt></ruby>がある<ruby>映画館<rt>えいがかん</rt></ruby>ができました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>子<rt>こ</rt></ruby>どもが<ruby>遊<rt>あそ</rt></ruby>ぶ<ruby>滑<rt>すべ</rt></ruby>り<ruby>台<rt>だい</rt></ruby>などがある<ruby>映画館<rt>えいがかん</rt></ruby>ができる", 
+  "news_id": "k10011055621000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170712/../20170712/K10011055621_1707121557_1707121601_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}
