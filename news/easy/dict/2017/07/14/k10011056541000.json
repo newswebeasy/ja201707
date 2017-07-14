@@ -1,0 +1,146 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>１億</rb><rt>いちおく</rt></ruby>の<ruby><rb>１万倍</rb><rt>いちまんばい</rt></ruby>。",
+          "hyouki": [
+            "兆"
+          ]
+        },
+        {
+          "def": "しるし。<ruby><rb>前</rb><rt>まえ</rt></ruby>ぶれ。",
+          "hyouki": [
+            "兆"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の１つ。１トンは、１０００キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。",
+          "hyouki": [
+            "トン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "トン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "トン"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>〇度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。",
+          "hyouki": [
+            "氷"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とした<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>。<ruby><rb>一年</rb><rt>いちねん</rt></ruby>じゅう<ruby><rb>厚</rb><rt>あつ</rt></ruby>い<ruby><rb>氷</rb><rt>こおり</rt></ruby>と<ruby><rb>雪</rb><rt>ゆき</rt></ruby>におおわれている。",
+          "hyouki": [
+            "南極大陸"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つだったものが、<ruby><rb>別々</rb><rt>べつべつ</rt></ruby>になる。",
+          "hyouki": [
+            "分かれる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つのものが、いくつかに<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られる。",
+          "hyouki": [
+            "分かれる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ロケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>るようにした、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>。<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>のようすや<ruby><rb>気象</rb><rt>きしょう</rt></ruby>などを<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>の<ruby><rb>中継</rb><rt>ちゅうけい</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>てたりする。",
+          "hyouki": [
+            "人工衛星"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>割</rb><rt>わ</rt></ruby>れたところ。さけ<ruby><rb>目</rb><rt>め</rt></ruby>。ひび。",
+          "hyouki": [
+            "割れ目"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>にある。うかぶ。",
+          "hyouki": [
+            "浮く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>地面</rb><rt>じめん</rt></ruby>からはなれて、<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>にある。",
+          "hyouki": [
+            "浮く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>に<ruby><rb>現</rb><rt>あらわ</rt></ruby>れる。",
+          "hyouki": [
+            "浮く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>がはずむ。",
+          "hyouki": [
+            "浮く"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>時間</rb><rt>じかん</rt></ruby>の<ruby><rb>余</rb><rt>あま</rt></ruby>りが<ruby><rb>出</rb><rt>で</rt></ruby>る。",
+          "hyouki": [
+            "浮く"
+          ]
+        },
+        {
+          "def": "しっかりと、くっついていない。",
+          "hyouki": [
+            "浮く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>にされなくなる。",
+          "hyouki": [
+            "浮く"
+          ]
+        }
+      ]
+    }
+  }
+}

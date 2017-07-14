@@ -1,0 +1,44 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。",
+          "hyouki": [
+            "避難"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ところ。",
+          "hyouki": [
+            "所"
+          ]
+        },
+        {
+          "def": "こと。もの。",
+          "hyouki": [
+            "所"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>予約</rb><rt>よやく</rt></ruby>などを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>消</rb><rt>け</rt></ruby>すこと。",
+          "hyouki": [
+            "キャンセル"
+          ]
+        }
+      ]
+    }
+  }
+}

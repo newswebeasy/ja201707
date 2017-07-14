@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011057901000.mp3", 
+  "title": "福岡県　雨の被害があった旅館にまた泊まれるようになる", 
+  "news_prearranged_time": "2017-07-14 16:05:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>九州<rt>きゅうしゅう</rt></ruby>では<ruby>５日<rt>いつか</rt></ruby>からたくさん<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って、<ruby>建物<rt>たてもの</rt></ruby>に<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ったりする<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>被害<rt>ひがい</rt></ruby></a>がありました。", 
+  "news_web_movie_uri": "k10011057901_201707140513_201707140514.mp4", 
+  "title_with_ruby": "<ruby>福岡県<rt>ふくおかけん</rt></ruby>　<ruby>雨<rt>あめ</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>があった<ruby>旅館<rt>りょかん</rt></ruby>にまた<ruby>泊<rt>と</rt></ruby>まれるようになる", 
+  "news_id": "k10011057901000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170714/../20170714/K10011057901_1707140513_1707140514_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

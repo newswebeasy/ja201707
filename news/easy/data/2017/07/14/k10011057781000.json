@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011057781000.mp3", 
+  "title": "中国　ノーベル平和賞をもらった劉暁波さんが亡くなる", 
+  "news_prearranged_time": "2017-07-14 16:05:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>中国<rt>ちゅうごく</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>作家<rt>さっか</rt></ruby></a>で、<a href='javascript:void(0)' class='dicWin' id='id-0001'>ノーベル<ruby>賞<rt>しょう</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>平和<rt>へいわ</rt></ruby></a><a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>賞<rt>しょう</rt></ruby></a>をもらった<ruby>劉<rt>りゅう</rt></ruby><ruby>暁波<rt>ぎょうは</rt></ruby>さんが１３<ruby>日<rt>にち</rt></ruby>、６１<ruby>歳<rt>さい</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなりました。", 
+  "news_web_movie_uri": "k10011057781_201707132328_201707132331.mp4", 
+  "title_with_ruby": "<ruby>中国<rt>ちゅうごく</rt></ruby>　ノーベル<ruby>平和賞<rt>へいわしょう</rt></ruby>をもらった<ruby>劉<rt>りゅう</rt></ruby><ruby>暁波<rt>ぎょうは</rt></ruby>さんが<ruby>亡<rt>な</rt></ruby>くなる", 
+  "news_id": "k10011057781000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170713/../20170713/K10011057781_1707132328_1707132332_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,116 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>病気</rb><rt>びょうき</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>などが、<ruby><rb>腰</rb><rt>こし</rt></ruby>かけたまま<ruby><rb>移動</rb><rt>いどう</rt></ruby>できるように<ruby><rb>車</rb><rt>くるま</rt></ruby>をつけた、いす。",
+          "hyouki": [
+            "車椅子"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>区切</rb><rt>くぎ</rt></ruby>り。",
+          "hyouki": [
+            "段"
+          ]
+        },
+        {
+          "def": "かいだん。",
+          "hyouki": [
+            "段"
+          ]
+        },
+        {
+          "def": "やり<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "段"
+          ]
+        },
+        {
+          "def": "<ruby><rb>剣道</rb><rt>けんどう</rt></ruby>、<ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>などの、<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を<ruby><rb>示</rb><rt>しめ</rt></ruby>す<ruby><rb>位</rb><rt>くらい</rt></ruby>。",
+          "hyouki": [
+            "段"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>や<ruby><rb>土地</rb><rt>とち</rt></ruby>の、<ruby><rb>表</rb><rt>おもて</rt></ruby>から<ruby><rb>裏</rb><rt>うら</rt></ruby>までの<ruby><rb>長</rb><rt>なが</rt></ruby>さ。",
+          "hyouki": [
+            "奥行き"
+          ]
+        },
+        {
+          "def": "<ruby><rb>知識</rb><rt>ちしき</rt></ruby>や<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>などの<ruby><rb>奥深</rb><rt>おくぶか</rt></ruby>さ。",
+          "hyouki": [
+            "奥行き"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>や<ruby><rb>自転車</rb><rt>じてんしゃ</rt></ruby>などの、<ruby><rb>車輪</rb><rt>しゃりん</rt></ruby>の<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>にはめたゴムの<ruby><rb>輪</rb><rt>わ</rt></ruby>。",
+          "hyouki": [
+            "タイヤ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>橋</rb><rt>はし</rt></ruby>や、<ruby><rb>階段</rb><rt>かいだん</rt></ruby>などの、<ruby><rb>手</rb><rt>て</rt></ruby>をかけるところ。らんかん。",
+          "hyouki": [
+            "手すり"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "しっかりと、にぎって<ruby><rb>持</rb><rt>も</rt></ruby>つ。",
+          "hyouki": [
+            "つかむ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のものにする。",
+          "hyouki": [
+            "つかむ"
+          ]
+        },
+        {
+          "def": "（だいじな<ruby><rb>点</rb><rt>てん</rt></ruby>を）<ruby><rb>理解</rb><rt>りかい</rt></ruby>する。とらえる。",
+          "hyouki": [
+            "つかむ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ]
+    }
+  }
+}

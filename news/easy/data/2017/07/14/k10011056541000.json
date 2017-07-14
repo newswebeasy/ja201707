@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011056541000.mp3", 
+  "title": "１兆ｔ以上の大きな氷が南極大陸から分かれた", 
+  "news_prearranged_time": "2017-07-14 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>イギリスのスウォンジー<ruby>大学<rt>だいがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0005'>グループ</a>は、<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>南極大陸<rt>なんきょくたいりく</rt></ruby></a>で<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>氷<rt>こおり</rt></ruby></a>が<ruby>割<rt>わ</rt></ruby>れて、<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>分<rt>わ</rt></ruby>かれ</a>て、<ruby>大<rt>おお</rt></ruby>きな<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>氷<rt>こおり</rt></ruby></a>の<ruby>山<rt>やま</rt></ruby>になったと<a href='javascript:void(0)' class='dicWin' id='id-0006'><ruby>発表<rt>はっぴょう</rt></ruby></a>しました。", 
+  "news_web_movie_uri": "k10011056541_201707131013_201707131016.mp4", 
+  "title_with_ruby": "１<ruby>兆<rt>ちょう</rt></ruby>ｔ<ruby>以上<rt>いじょう</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>氷<rt>こおり</rt></ruby>が<ruby>南極大陸<rt>なんきょくたいりく</rt></ruby>から<ruby>分<rt>わ</rt></ruby>かれた", 
+  "news_id": "k10011056541000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170713/../20170713/K10011056541_1707131013_1707131016_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}
