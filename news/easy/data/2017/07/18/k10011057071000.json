@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011057071000.mp3", 
+  "title": "人がいなくても自動で運転して「すし」を届ける車", 
+  "news_prearranged_time": "2017-07-18 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>最近<rt>さいきん</rt></ruby>、<ruby>品物<rt>しなもの</rt></ruby>を<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>配達<rt>はいたつ</rt></ruby></a>する<ruby>会社<rt>かいしゃ</rt></ruby>では、<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくて<ruby>困<rt>こま</rt></ruby>っています。", 
+  "news_web_movie_uri": "k10011057071_201707131706_201707131732.mp4", 
+  "title_with_ruby": "<ruby>人<rt>ひと</rt></ruby>がいなくても<ruby>自動<rt>じどう</rt></ruby>で<ruby>運転<rt>うんてん</rt></ruby>して「すし」を<ruby>届<rt>とど</rt></ruby>ける<ruby>車<rt>くるま</rt></ruby>", 
+  "news_id": "k10011057071000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170713/../20170713/K10011057071_1707131536_1707131536_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

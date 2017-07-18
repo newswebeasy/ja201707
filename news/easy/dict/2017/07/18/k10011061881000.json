@@ -1,0 +1,126 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>のときには、<ruby><rb>中立</rb><rt>ちゅうりつ</rt></ruby>の<ruby><rb>立場</rb><rt>たちば</rt></ruby>で、けが<ruby><rb>人</rb><rt>にん</rt></ruby>の<ruby><rb>手当</rb><rt>てあ</rt></ruby>てをし、<ruby><rb>平和</rb><rt>へいわ</rt></ruby>なときは、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>の<ruby><rb>治療</rb><rt>ちりょう</rt></ruby>や<ruby><rb>災害</rb><rt>さいがい</rt></ruby>の<ruby><rb>救護</rb><rt>きゅうご</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>国際的</rb><rt>こくさいてき</rt></ruby>な<ruby><rb>組織</rb><rt>そしき</rt></ruby>。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>は、スイスのジュネーブにある。<ruby><rb>赤十字社</rb><rt>せきじゅうじしゃ</rt></ruby>。",
+          "hyouki": [
+            "赤十字"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。",
+          "hyouki": [
+            "話し合う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "話し合う"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>別々</rb><rt>べつべつ</rt></ruby>にする。はなす。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>配</rb><rt>くば</rt></ruby>る。<ruby><rb>分配</rb><rt>ぶんぱい</rt></ruby>する。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>に、おし<ruby><rb>開</rb><rt>ひら</rt></ruby>く。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>分</rb><rt>わ</rt></ruby>けにする。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てる。",
+          "hyouki": [
+            "分ける"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>うこと。もめごと。けんか。",
+          "hyouki": [
+            "争い"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>一年</rb><rt>いちねん</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "年間"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>年代</rb><rt>ねんだい</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "年間"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>相談</rb><rt>そうだん</rt></ruby>。",
+          "hyouki": [
+            "話し合い"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つだったものが、<ruby><rb>別々</rb><rt>べつべつ</rt></ruby>になる。",
+          "hyouki": [
+            "分かれる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つのものが、いくつかに<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られる。",
+          "hyouki": [
+            "分かれる"
+          ]
+        }
+      ]
+    }
+  }
+}
