@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011065831000.mp3", 
+  "title": "トランプさんがアメリカの大統領になってから半年", 
+  "news_prearranged_time": "2017-07-20 16:50:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>２０日<rt>はつか</rt></ruby>、トランプさんがアメリカの<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>大統領<rt>だいとうりょう</rt></ruby></a>になってから<ruby>半年<rt>はんとし</rt></ruby>になりました。", 
+  "news_web_movie_uri": "k10011065831_201707200738_201707200757.mp4", 
+  "title_with_ruby": "トランプさんがアメリカの<ruby>大統領<rt>だいとうりょう</rt></ruby>になってから<ruby>半年<rt>はんとし</rt></ruby>", 
+  "news_id": "k10011065831000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170720/../20170720/K10011065831_1707200617_1707200630_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}
