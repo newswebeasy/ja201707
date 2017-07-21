@@ -1,0 +1,50 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>暖</rb><rt>あたた</rt></ruby>かな<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>口</rb><rt>くち</rt></ruby>が<ruby><rb>横</rb><rt>よこ</rt></ruby>にさけ、するどい<ruby><rb>歯</rb><rt>は</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ。ネコザメ・シュモクザメ・ジンベイザメなど。",
+          "hyouki": [
+            "鮫"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>がおだやかで、すなおである。",
+          "hyouki": [
+            "おとなしい"
+          ]
+        },
+        {
+          "def": "<ruby><rb>静</rb><rt>しず</rt></ruby>かにしている。",
+          "hyouki": [
+            "おとなしい"
+          ]
+        },
+        {
+          "def": "はででない。",
+          "hyouki": [
+            "おとなしい"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。",
+          "hyouki": [
+            "禁止"
+          ]
+        }
+      ]
+    }
+  }
+}
