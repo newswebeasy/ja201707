@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011070771000.mp3", 
+  "title": "大相撲　横綱の白鵬が３９回目の優勝", 
+  "news_prearranged_time": "2017-07-24 15:50:00", 
+  "news_easy_image_uri": "k10011070771000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>名古屋<rt>なごや</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>った<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>大相撲<rt>おおずもう</rt></ruby></a>で２３<ruby>日<rt>にち</rt></ruby>、<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>横綱<rt>よこづな</rt></ruby></a>の<ruby>白鵬<rt>はくほう</rt></ruby>が３９<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>優勝<rt>ゆうしょう</rt></ruby></a>をしました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>大相撲<rt>おおずもう</rt></ruby>　<ruby>横綱<rt>よこづな</rt></ruby>の<ruby>白鵬<rt>はくほう</rt></ruby>が３９<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>の<ruby>優勝<rt>ゆうしょう</rt></ruby>", 
+  "news_id": "k10011070771000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}

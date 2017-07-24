@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011070741000.mp3", 
+  "title": "イエメンで３７万人がコレラという病気になった可能性", 
+  "news_prearranged_time": "2017-07-24 15:50:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>イエメンでは<ruby>国<rt>くに</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で２<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>戦争<rt>せんそう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。", 
+  "news_web_movie_uri": "k10011070741_201707240008_201707240010.mp4", 
+  "title_with_ruby": "イエメンで３７<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>がコレラという<ruby>病気<rt>びょうき</rt></ruby>になった<ruby>可能性<rt>かのうせい</rt></ruby>", 
+  "news_id": "k10011070741000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170723/../20170723/K10011070741_1707231737_1707231738_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

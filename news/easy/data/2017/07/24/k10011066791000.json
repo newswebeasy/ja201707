@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011066791000.mp3", 
+  "title": "虐待されて入院した子ども　行く所がなくて退院できない", 
+  "news_prearranged_time": "2017-07-24 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>小児科<rt>しょうにか</rt></ruby></a>の<ruby>医者<rt>いしゃ</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0001'>グループ</a>が、<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>親<rt>おや</rt></ruby></a>が<ruby>子<rt>こ</rt></ruby>どもを<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>殴<rt>なぐ</rt></ruby>っ</a>たり<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>をあげなかったりする<ruby>虐待<rt>ぎゃくたい</rt></ruby>が<ruby>原因<rt>げんいん</rt></ruby>で<ruby>入院<rt>にゅういん</rt></ruby>した<ruby>子<rt>こ</rt></ruby>どもを<ruby>調<rt>しら</rt></ruby>べました。", 
+  "news_web_movie_uri": "k10011066791_201707201926_201707201928.mp4", 
+  "title_with_ruby": "<ruby>虐待<rt>ぎゃくたい</rt></ruby>されて<ruby>入院<rt>にゅういん</rt></ruby>した<ruby>子<rt>こ</rt></ruby>ども　<ruby>行<rt>い</rt></ruby>く<ruby>所<rt>ところ</rt></ruby>がなくて<ruby>退院<rt>たいいん</rt></ruby>できない", 
+  "news_id": "k10011066791000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170720/../20170720/K10011066791_1707201926_1707201928_01_03.jpg?utm_int=news-social_contents_list-items_017", 
+  "news_easy_movie_uri": "''"
+}
