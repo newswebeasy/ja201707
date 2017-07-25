@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011070491000.mp3", 
+  "title": "ヒアリが見つかってアリを殺す殺虫剤がたくさん売れている", 
+  "news_prearranged_time": "2017-07-25 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>ヒアリは<ruby>強<rt>つよ</rt></ruby>い<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>毒<rt>どく</rt></ruby></a>を<ruby>持<rt>も</rt></ruby>っている<ruby>外国<rt>がいこく</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'>アリ</a>で、<a href='javascript:void(0)' class='dicWin' id='id-0005'><ruby>刺<rt>さ</rt></ruby>さ</a>れると<a href='javascript:void(0)' class='dicWin' id='id-0006'>やけど</a>をしたように<ruby>痛<rt>いた</rt></ruby>くなります。", 
+  "news_web_movie_uri": "k10011070491_201707231950_201707232015.mp4", 
+  "title_with_ruby": "ヒアリが<ruby>見<rt>み</rt></ruby>つかってアリを<ruby>殺<rt>ころ</rt></ruby>す<ruby>殺虫剤<rt>さっちゅうざい</rt></ruby>がたくさん<ruby>売<rt>う</rt></ruby>れている", 
+  "news_id": "k10011070491000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170723/../20170723/K10011070491_1707231426_1707231434_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

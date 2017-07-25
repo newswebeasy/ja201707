@@ -1,0 +1,60 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>大麦</rb><rt>おおむぎ</rt></ruby>を<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>にした<ruby><rb>酒</rb><rt>さけ</rt></ruby>。",
+          "hyouki": [
+            "ビール"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>田</rb><rt>た</rt></ruby>や<ruby><rb>畑</rb><rt>はたけ</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>るもの。<ruby><rb>米</rb><rt>こめ</rt></ruby>・<ruby><rb>野菜</rb><rt>やさい</rt></ruby>・<ruby><rb>果物</rb><rt>くだもの</rt></ruby>など。のうさくもつ。",
+          "hyouki": [
+            "農作物"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>第２次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。",
+          "hyouki": [
+            "国際連合"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>実</rb><rt>み</rt></ruby>を、しょうゆ・みそを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>にしたり、<ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>にしたりする。",
+          "hyouki": [
+            "小麦"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>地下</rb><rt>ちか</rt></ruby>にできるイモを<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にする<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>のはじめ、<ruby><rb>白</rb><rt>しろ</rt></ruby>またはうすむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。ばれいしょ。",
+          "hyouki": [
+            "じゃがいも"
+          ]
+        }
+      ]
+    }
+  }
+}

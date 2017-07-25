@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011072191000.mp3", 
+  "title": "猫からマダニのウイルスがうつった可能性　女性が亡くなる", 
+  "news_prearranged_time": "2017-07-25 16:20:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>４<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、マダニという<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>種類<rt>しゅるい</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0003'>ダニ</a>にかまれて<a href='javascript:void(0)' class='dicWin' id='id-0000'>ウイルス</a>がうつるＳＦＴＳという<ruby>病気<rt>びょうき</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>見<rt>み</rt></ruby>つかりました。", 
+  "news_web_movie_uri": "k10011072191_201707241740_201707241813.mp4", 
+  "title_with_ruby": "<ruby>猫<rt>ねこ</rt></ruby>からマダニのウイルスがうつった<ruby>可能性<rt>かのうせい</rt></ruby>　<ruby>女性<rt>じょせい</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる", 
+  "news_id": "k10011072191000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170724/../20170724/K10011072191_1707241740_1707241814_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

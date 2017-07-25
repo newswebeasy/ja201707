@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011071351000.mp3", 
+  "title": "フランスのワイン　春に寒かったため生産が少なくなる", 
+  "news_prearranged_time": "2017-07-25 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>フランスの<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>政府<rt>せいふ</rt></ruby></a>は、<ruby>今年<rt>ことし</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'>ワイン</a>の<ruby>生産<rt>せいさん</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>より１７％<ruby>少<rt>すく</rt></ruby>なくなると<ruby>言<rt>い</rt></ruby>っています。", 
+  "news_web_movie_uri": "k10011071351_201707240913_201707240914.mp4", 
+  "title_with_ruby": "フランスのワイン　<ruby>春<rt>はる</rt></ruby>に<ruby>寒<rt>さむ</rt></ruby>かったため<ruby>生産<rt>せいさん</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなる", 
+  "news_id": "k10011071351000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170724/../20170724/K10011071351_1707240913_1707240914_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}
