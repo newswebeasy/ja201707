@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>の<ruby><rb>一部</rb><rt>いちぶ</rt></ruby>。<ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>・フィリピン・ボルネオ・インドシナ<ruby><rb>半島</rb><rt>はんとう</rt></ruby>などに<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "南シナ海"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。",
+          "hyouki": [
+            "ミサイル"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "（<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>などを）<ruby><rb>発射</rb><rt>はっしゃ</rt></ruby>する。",
+          "hyouki": [
+            "撃つ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ある<ruby><rb>土地</rb><rt>とち</rt></ruby>やそこに<ruby><rb>住</rb><rt>す</rt></ruby>む<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>めること。",
+          "hyouki": [
+            "支配"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>思</rb><rt>おも</rt></ruby>うように<ruby><rb>動</rb><rt>うご</rt></ruby>かすこと。",
+          "hyouki": [
+            "支配"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011072601000.mp3", 
+  "title": "中国が南シナ海の島に映画館を建てる", 
+  "news_prearranged_time": "2017-07-26 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>南<rt>みなみ</rt></ruby>シナ<ruby>海<rt>かい</rt></ruby></a>にある<ruby>西沙諸島<rt>せいさしょとう</rt></ruby>（パラセル<ruby>諸島<rt>しょとう</rt></ruby>）は、<ruby>中国<rt>ちゅうごく</rt></ruby>やベトナム、<ruby>台湾<rt>たいわん</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>の<ruby>島<rt>しま</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っています。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>中国<rt>ちゅうごく</rt></ruby>が<ruby>南<rt>みなみ</rt></ruby>シナ<ruby>海<rt>かい</rt></ruby>の<ruby>島<rt>しま</rt></ruby>に<ruby>映画館<rt>えいがかん</rt></ruby>を<ruby>建<rt>た</rt></ruby>てる", 
+  "news_id": "k10011072601000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170724/../20170724/K10011072601_1707242031_1707242052_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}
