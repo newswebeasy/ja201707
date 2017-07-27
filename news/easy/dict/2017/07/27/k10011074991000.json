@@ -1,0 +1,94 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。",
+          "hyouki": [
+            "災害"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>材木</rb><rt>ざいもく</rt></ruby>を、うすく<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。また、そのような<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。",
+          "hyouki": [
+            "板"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えて、<ruby><rb>自由</rb><rt>じゆう</rt></ruby>に<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ることができる<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>合成樹脂</rb><rt>ごうせいじゅし</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>す。<ruby><rb>使</rb><rt>つか</rt></ruby>い<ruby><rb>道</rb><rt>みち</rt></ruby>が<ruby><rb>広</rb><rt>ひろ</rt></ruby>い。",
+          "hyouki": [
+            "プラスチック"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>銀色</rb><rt>ぎんいろ</rt></ruby>の、<ruby><rb>軽</rb><rt>かる</rt></ruby>くてさびにくい<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。<ruby><rb>窓</rb><rt>まど</rt></ruby>わくや、<ruby><rb>食器</rb><rt>しょっき</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。<ruby><rb>酸</rb><rt>さん</rt></ruby>に<ruby><rb>弱</rb><rt>よわ</rt></ruby>い。アルミ。",
+          "hyouki": [
+            "アルミニウム"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>人目</rb><rt>ひとめ</rt></ruby>につく<ruby><rb>所</rb><rt>ところ</rt></ruby>に、<ruby><rb>店</rb><rt>みせ</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や<ruby><rb>商品</rb><rt>しょうひん</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>などを<ruby><rb>書</rb><rt>か</rt></ruby>いて、<ruby><rb>出</rb><rt>だ</rt></ruby>しておくもの。",
+          "hyouki": [
+            "看板"
+          ]
+        },
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>せかけ。",
+          "hyouki": [
+            "看板"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。",
+          "hyouki": [
+            "障害"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。",
+          "hyouki": [
+            "障害"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "とがったものをつき<ruby><rb>通</rb><rt>とお</rt></ruby>す。",
+          "hyouki": [
+            "刺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>鼻</rb><rt>はな</rt></ruby>・<ruby><rb>舌</rb><rt>した</rt></ruby>・はだなどに、するどい<ruby><rb>刺激</rb><rt>しげき</rt></ruby>をあたえる。",
+          "hyouki": [
+            "刺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>走者</rb><rt>そうしゃ</rt></ruby>にタッチして、アウトにする。",
+          "hyouki": [
+            "刺す"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ものごとを<ruby><rb>考</rb><rt>かんが</rt></ruby>えたり、<ruby><rb>理解</rb><rt>りかい</rt></ruby>したりするはたらき。",
+          "hyouki": [
+            "知能"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "とがったものをつき<ruby><rb>通</rb><rt>とお</rt></ruby>す。",
+          "hyouki": [
+            "刺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>鼻</rb><rt>はな</rt></ruby>・<ruby><rb>舌</rb><rt>した</rt></ruby>・はだなどに、するどい<ruby><rb>刺激</rb><rt>しげき</rt></ruby>をあたえる。",
+          "hyouki": [
+            "刺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>走者</rb><rt>そうしゃ</rt></ruby>にタッチして、アウトにする。",
+          "hyouki": [
+            "刺す"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>幼稚園</rb><rt>ようちえん</rt></ruby>や<ruby><rb>動物園</rb><rt>どうぶつえん</rt></ruby>などの、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>責任者</rb><rt>せきにんしゃ</rt></ruby>。",
+          "hyouki": [
+            "園長"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>訳</rb><rt>わけ</rt></ruby>ができない。<ruby><rb>大変</rb><rt>たいへん</rt></ruby>すまない。",
+          "hyouki": [
+            "申し訳ない"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "とらえられる。つかまえられる。",
+          "hyouki": [
+            "捕まる"
+          ]
+        }
+      ]
+    }
+  }
+}

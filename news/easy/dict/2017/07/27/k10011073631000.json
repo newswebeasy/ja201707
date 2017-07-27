@@ -1,0 +1,56 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>学問</rb><rt>がくもん</rt></ruby>・<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>や、そろばん・<ruby><rb>習字</rb><rt>しゅうじ</rt></ruby>などを<ruby><rb>教</rb><rt>おし</rt></ruby>える<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "塾"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>父</rb><rt>ちち</rt></ruby>や<ruby><rb>母</rb><rt>はは</rt></ruby>。<ruby><rb>両親</rb><rt>りょうしん</rt></ruby>。",
+          "hyouki": [
+            "親"
+          ]
+        },
+        {
+          "def": "<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうんだもの。",
+          "hyouki": [
+            "親"
+          ]
+        },
+        {
+          "def": "トランプやかるたなどの<ruby><rb>遊</rb><rt>あそ</rt></ruby>びで、カードを<ruby><rb>配</rb><rt>くば</rt></ruby>る<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "親"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となるもの。<ruby><rb>大</rb><rt>おお</rt></ruby>きいもの。",
+          "hyouki": [
+            "親"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "たくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>問</rb><rt>と</rt></ruby>い<ruby><rb>合</rb><rt>あ</rt></ruby>わせ、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>書</rb><rt>か</rt></ruby>いてもらって、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>調</rb><rt>しら</rt></ruby>べる<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。",
+          "hyouki": [
+            "アンケート"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。",
+          "hyouki": [
+            "社員"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>によるはたらきの<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>単位</rb><rt>たんい</rt></ruby>は、ワット。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「W」。",
+          "hyouki": [
+            "電力"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。",
+          "hyouki": [
+            "給料"
+          ]
+        }
+      ]
+    }
+  }
+}
