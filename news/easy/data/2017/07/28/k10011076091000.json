@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011076091000.mp3", 
+  "title": "東京の目黒区「新しいマンションには保育所を作って」", 
+  "news_prearranged_time": "2017-07-28 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>目黒区<rt>めぐろく</rt></ruby>では<ruby>今年<rt>ことし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>、<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>保育所<rt>ほいくしょ</rt></ruby></a>が<ruby>足<rt>た</rt></ruby>りないため<ruby>入<rt>はい</rt></ruby>ることができなかった<ruby>子<rt>こ</rt></ruby>どもが６１７<ruby>人<rt>にん</rt></ruby>いました。", 
+  "news_web_movie_uri": "k10011076091_201707270630_201707270639.mp4", 
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>目黒区<rt>めぐろく</rt></ruby>「<ruby>新<rt>あたら</rt></ruby>しいマンションには<ruby>保育所<rt>ほいくしょ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>って」", 
+  "news_id": "k10011076091000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170727/../20170727/K10011076091_1707270630_1707270641_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

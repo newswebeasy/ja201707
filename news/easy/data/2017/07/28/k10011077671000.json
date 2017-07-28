@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011077671000.mp3", 
+  "title": "アマゾンを作った人が世界で１番のお金持ちになる", 
+  "news_prearranged_time": "2017-07-28 16:00:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>アメリカの<ruby>経済<rt>けいざい</rt></ruby>の<ruby>雑誌<rt>ざっし</rt></ruby>「フォーブス」は２７<ruby>日<rt>にち</rt></ruby>、アメリカのアマゾン・ドット・コムという<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ったジェフ・ベゾスさんが、<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby>のお<ruby>金持<rt>かねも</rt></ruby>ちになったと<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>発表<rt>はっぴょう</rt></ruby></a>しました。", 
+  "news_web_movie_uri": "k10011077671_201707280725_201707280729.mp4", 
+  "title_with_ruby": "アマゾンを<ruby>作<rt>つく</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>が<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby>のお<ruby>金持<rt>かねも</rt></ruby>ちになる", 
+  "news_id": "k10011077671000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170728/../20170728/K10011077671_1707280725_1707280729_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}
