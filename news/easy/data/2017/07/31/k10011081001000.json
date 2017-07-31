@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011081001000.mp3", 
+  "title": "「熱中症にならないように」飲み物が売れる", 
+  "news_prearranged_time": "2017-07-31 16:00:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>では<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いていて、ジュースやお<ruby>茶<rt>ちゃ</rt></ruby>などの<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>売<rt>う</rt></ruby>れ</a>ています。", 
+  "news_web_movie_uri": "k10011081001_201707310445_201707310448.mp4", 
+  "title_with_ruby": "「<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby>にならないように」<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>が<ruby>売<rt>う</rt></ruby>れる", 
+  "news_id": "k10011081001000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170731/../20170731/K10011081001_1707310445_1707310448_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,68 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、はたらかせる<ruby><rb>機械</rb><rt>きかい</rt></ruby>。<ruby><rb>電気冷蔵庫</rb><rt>でんきれいぞうこ</rt></ruby>・<ruby><rb>電気洗濯機</rb><rt>でんきせんたくき</rt></ruby>など。",
+          "hyouki": [
+            "電化製品"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>閉</rb><rt>し</rt></ruby>める。ふさぐ。<ruby><rb>閉</rb><rt>し</rt></ruby>まる。",
+          "hyouki": [
+            "閉じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>終</rb><rt>お</rt></ruby>わりにする。",
+          "hyouki": [
+            "閉じる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>温度</rb><rt>おんど</rt></ruby>などに<ruby><rb>反応</rb><rt>はんのう</rt></ruby>して、<ruby><rb>電気的</rb><rt>でんきてき</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "センサー"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>熱</rb><rt>あつ</rt></ruby>さや<ruby><rb>冷</rb><rt>つめ</rt></ruby>たさの<ruby><rb>度合</rb><rt>どあ</rt></ruby>いを<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。",
+          "hyouki": [
+            "温度"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>映画</rb><rt>えいが</rt></ruby>やテレビが<ruby><rb>映</rb><rt>うつ</rt></ruby>っている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "画面"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。",
+          "hyouki": [
+            "実験"
+          ]
+        }
+      ]
+    }
+  }
+}

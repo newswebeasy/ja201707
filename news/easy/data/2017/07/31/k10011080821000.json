@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011080821000.mp3", 
+  "title": "雨の被害があった秋田県大仙市　ボランティアが手伝いに来る", 
+  "news_prearranged_time": "2017-07-31 16:00:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>秋田県<rt>あきたけん</rt></ruby>では７<ruby>月<rt>がつ</rt></ruby>２２<ruby>日<rt>にち</rt></ruby>と２３<ruby>日<rt>にち</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>がとてもたくさん<ruby>降<rt>ふ</rt></ruby>って、６００<ruby>以上<rt>いじょう</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>などで<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>床<rt>ゆか</rt></ruby></a>の<ruby>上<rt>うえ</rt></ruby>まで<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきました。", 
+  "news_web_movie_uri": "k10011080821_201707302054_201707302056.mp4", 
+  "title_with_ruby": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>があった<ruby>秋田県<rt>あきたけん</rt></ruby><ruby>大仙市<rt>だいせんし</rt></ruby>　ボランティアが<ruby>手伝<rt>てつだ</rt></ruby>いに<ruby>来<rt>く</rt></ruby>る", 
+  "news_id": "k10011080821000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170730/../20170730/K10011080821_1707301751_1707301752_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

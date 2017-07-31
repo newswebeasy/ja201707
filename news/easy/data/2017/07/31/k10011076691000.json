@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011076691000.mp3", 
+  "title": "日本人の平均寿命　女性も男性も世界で２番目に長い", 
+  "news_prearranged_time": "2017-07-31 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></a>によると、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>日本人<rt>にっぽんじん</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>平均<rt>へいきん</rt></ruby></a><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>寿命<rt>じゅみょう</rt></ruby></a>は、<ruby>女性<rt>じょせい</rt></ruby>が８７．１４<ruby>歳<rt>さい</rt></ruby>、<ruby>男性<rt>だんせい</rt></ruby>が８０．９８<ruby>歳<rt>さい</rt></ruby>でした。", 
+  "news_web_movie_uri": "k10011076691_201707271737_201707271739.mp4", 
+  "title_with_ruby": "<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>平均<rt>へいきん</rt></ruby><ruby>寿命<rt>じゅみょう</rt></ruby>　<ruby>女性<rt>じょせい</rt></ruby>も<ruby>男性<rt>だんせい</rt></ruby>も<ruby>世界<rt>せかい</rt></ruby>で２<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>長<rt>なが</rt></ruby>い", 
+  "news_id": "k10011076691000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170727/../20170727/K10011076691_1707271517_1707271519_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

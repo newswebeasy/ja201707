@@ -1,0 +1,178 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地下水</rb><rt>ちかすい</rt></ruby>が<ruby><rb>火山</rb><rt>かざん</rt></ruby>などの<ruby><rb>熱</rb><rt>ねつ</rt></ruby>で<ruby><rb>温</rb><rt>あたた</rt></ruby>められて、<ruby><rb>地下</rb><rt>ちか</rt></ruby>からわき<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>湯</rb><rt>ゆ</rt></ruby>。いろいろな<ruby><rb>成分</rb><rt>せいぶん</rt></ruby>がとけていて<ruby><rb>病気</rb><rt>びょうき</rt></ruby>に<ruby><rb>効</rb><rt>き</rt></ruby>く。また、その<ruby><rb>湯</rb><rt>ゆ</rt></ruby>の<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "温泉"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>楽</rb><rt>たの</rt></ruby>しく<ruby><rb>遊</rb><rt>あそ</rt></ruby>べるように、<ruby><rb>遊</rb><rt>あそ</rt></ruby>び<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>などが<ruby><rb>備</rb><rt>そな</rt></ruby>えてある<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "遊園地"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "あいだ。へだたり。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "ひろがり。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>関係</rb><rt>かんけい</rt></ruby>をもったまとまり。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>のようすをうかがう。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "へや。へやを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>尺貫法</rb><rt>しゃっかんほう</rt></ruby>で、<ruby><rb>長</rb><rt>なが</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>一間</rb><rt>いっけん</rt></ruby>は<ruby><rb>約</rb><rt>やく</rt></ruby>一・八メートル。",
+          "hyouki": [
+            "間"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "かくしだてをしないようす。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。",
+          "hyouki": [
+            "オープン"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>え。<ruby><rb>思</rb><rt>おも</rt></ruby>いつき。<ruby><rb>工夫</rb><rt>くふう</rt></ruby>。アイディア。",
+          "hyouki": [
+            "アイデア"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "（おおやけの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>・<ruby><rb>寺</rb><rt>てら</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けるために）お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "寄付"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>遊園地</rb><rt>ゆうえんち</rt></ruby>の<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>急</rb><rt>きゅう</rt></ruby>な<ruby><rb>上</rb><rt>のぼ</rt></ruby>り<ruby><rb>下</rb><rt>くだ</rt></ruby>りやカーブのあるレールの<ruby><rb>上</rb><rt>うえ</rt></ruby>を<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>走</rb><rt>はし</rt></ruby>る、<ruby><rb>小型</rb><rt>こがた</rt></ruby>の<ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>。",
+          "hyouki": [
+            "ジェットコースター"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>空気</rb><rt>くうき</rt></ruby>が<ruby><rb>入</rb><rt>はい</rt></ruby>って、<ruby><rb>丸</rb><rt>まる</rt></ruby>くふくれた<ruby><rb>玉</rb><rt>たま</rt></ruby>。あぶく。",
+          "hyouki": [
+            "泡"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>口</rb><rt>くち</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>る）つば。",
+          "hyouki": [
+            "泡"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "とりやめになる。",
+          "hyouki": [
+            "流れる"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>泳</rb><rt>およ</rt></ruby>ぐときに<ruby><rb>着</rb><rt>き</rt></ruby>るもの。<ruby><rb>海水着</rb><rt>かいすいぎ</rt></ruby>。",
+          "hyouki": [
+            "水着"
+          ]
+        }
+      ]
+    }
+  }
+}

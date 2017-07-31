@@ -1,0 +1,88 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。",
+          "hyouki": [
+            "平均"
+          ]
+        },
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。",
+          "hyouki": [
+            "平均"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>命</rb><rt>いのち</rt></ruby>。<ruby><rb>命</rb><rt>いのち</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ。",
+          "hyouki": [
+            "寿命"
+          ]
+        },
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>って<ruby><rb>使</rb><rt>つか</rt></ruby>える<ruby><rb>年数</rb><rt>ねんすう</rt></ruby>。",
+          "hyouki": [
+            "寿命"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。",
+          "hyouki": [
+            "厚生労働省"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ある<ruby><rb>範囲</rb><rt>はんい</rt></ruby>に<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "地域"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがをよくする。",
+          "hyouki": [
+            "治す"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>悪性</rb><rt>あくせい</rt></ruby>のはれものができる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にできたがん<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>がどんどん<ruby><rb>増</rb><rt>ふ</rt></ruby>えて<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>害</rb><rt>がい</rt></ruby>をあたえる。",
+          "hyouki": [
+            "がん"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。",
+          "hyouki": [
+            "健康"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。",
+          "hyouki": [
+            "健康"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ]
+    }
+  }
+}

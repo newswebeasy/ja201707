@@ -1,0 +1,80 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>社会</rb><rt>しゃかい</rt></ruby>のために、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>から<ruby><rb>進</rb><rt>すす</rt></ruby>んで、<ruby><rb>無料</rb><rt>むりょう</rt></ruby>で<ruby><rb>奉仕活動</rb><rt>ほうしかつどう</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ボランティア"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、<ruby><rb>地面</rb><rt>じめん</rt></ruby>より<ruby><rb>高</rb><rt>たか</rt></ruby>く、<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>張</rb><rt>は</rt></ruby>ったところ。",
+          "hyouki": [
+            "床"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "いっぱいになって、こぼれる。",
+          "hyouki": [
+            "あふれる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。",
+          "hyouki": [
+            "あふれる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>けのある、やわらかい<ruby><rb>土</rb><rt>つち</rt></ruby>。",
+          "hyouki": [
+            "泥"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>集</rb><rt>あつ</rt></ruby>まる。<ruby><rb>増</rb><rt>ふ</rt></ruby>える。",
+          "hyouki": [
+            "たまる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>後</rb><rt>あと</rt></ruby>まで<ruby><rb>残</rb><rt>のこ</rt></ruby>る。",
+          "hyouki": [
+            "たまる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        }
+      ]
+    }
+  }
+}
